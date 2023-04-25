@@ -1,0 +1,99 @@
+body{
+   margin: 0;
+   background-color: #08112E;
+   display: flex;
+   font-family: 'Roboto';
+   flex-direction: column;
+}
+header{
+   padding-top: 0.5em;
+   padding-left: 1em;
+   padding-right: 1em;
+   color:white;
+}
+header h1{
+   font-size: 20px;
+}
+header p{
+   font-size: 20px;
+   background-color: #294ABD;
+   padding:5px;
+   border-radius:5px;
+   text-align: center;
+}
+.navItems{
+   float: right;
+   padding-right: 1em;
+   gap: 2em;
+}
+h4 {
+   color: #F0F277;
+}
+img{
+   max-width: 65%;
+}
+.info{
+   padding: 5em;
+}
+#title{
+   color: #F0F277;
+}
+.leftText p{
+   color:white;
+}
+.subHeading{
+   font-size:30px;
+}
+.description{
+   font-size: 20px;
+}
+
+#preFooter{
+   padding: 2em;
+   background-color: white;
+   color: #1D4CC0;
+   text-decoration:underline;
+   gap:4em;
+}
+footer{
+   text-align: center;
+   padding: 3em;
+   background-color: #EFF3F3;
+}
+footer h1{
+   
+}
+
+.d-flex{
+   display: flex;
+   flex-wrap: warp;
+}
+
+.align-items-center{
+   align-items: center;
+}
+
+.align-items-baseline{
+   align-items: baseline;
+}
+
+.justify-content-between{
+   justify-content: space-between;
+}
+
+.justify-content-around{
+   justify-content: space-around;
+}
+
+.text-align-left{
+   text-align: left;
+}
+.left{
+   max-width: 30%;
+}
+.right{
+   max-width: 50%;
+}
+.right img{
+   transform: scale(1.4)
+}
