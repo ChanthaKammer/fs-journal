@@ -10,4 +10,4 @@ My name is Chantha Kammer. I am a student at [CodeWorks](https://boisecodeworks.
 ## Contact
 
 * [Resume](https://chanthakammer.github.io/resume)
-* Email: cadetsa219@gmail.com
+* Email: chantha@kammer.dev
