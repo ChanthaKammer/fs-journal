@@ -1,0 +1,39 @@
+body{
+   width: 100%;
+}
+p{
+   margin: 0;
+}
+#logo{
+   font-size: 5em;
+}
+#navBar{
+   background-color: rgb(235, 154, 5);
+}
+.times{
+   font-family: 'Times New Roman', Times, serif;
+}
+#blog{
+   background-image: url("assets/blog.jpg");
+   width: 20em;
+   height: 20em;
+}
+#office{
+   background-image: url("assets/office.jpg");
+   width: 20em;
+   height: 20em;
+}
+#expertise{
+   background-image: url("assets/expertise.jpeg");
+   width: 20em;
+   height: 20em;
+}
+
+.f-40{
+   font-size:40px;
+}
+
+#desc{
+   font-size:40px;
+   color:rgb(235, 154, 5);
+}
