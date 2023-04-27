@@ -1,7 +1,7 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > Var, let, and const are all ways to declare a variable in Javascript. Var is the original way to declare variables, but let and const were added later on. Let is the declaration you use for a variable that mgiht change in the future. Const is for declaring a value that will not change.
 
 02. What is the definition of a function?
 
@@ -34,19 +34,24 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > friends.push(them); friends.push(you);
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if(blocks => 2){
+        console.log(`${blocks} is the size fo your block`);
+    } else if(blocks < 2){
+        console.log("Your block is too small!");
+    }
+    => is more than or equal to, < needs to be used because in the first statement I am also including the value of 2.
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > 
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > 
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
@@ -54,4 +59,6 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > let(i = -100; i < 100; i++){
+        console.log(i);
+    }
