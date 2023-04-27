@@ -1,0 +1,51 @@
+#logo{
+   font-size: 15em;
+}
+#logo-sm{
+   font-size: 5em;
+}
+#nabbbv{
+   box-shadow: 0em 0.5em rgba(128, 128, 128, 0.098);
+}
+#customer{
+   background-image: url("/assets/wide.png");
+   max-width: 100%;
+   height:auto;
+   background-repeat: no-repeat;   
+}
+.circle-img{
+   border-radius: 100%;
+   margin:auto;
+   max-height: 15em;
+   max-width: 15em;
+   filter:brightness(50%)
+}
+.purchase{
+   max-width: 10em;
+   align-self: center;
+}
+.text-gray{
+   color: gray;
+}
+.text-green{
+   color: lightgreen;
+}
+.text-lighter{
+   color: rgb(208, 207, 207);
+}
+.text-purple{
+   color:purple;
+}
+.text-blue{
+   color:lightblue;
+}
+.icon-md i{
+   font-size: 2em;
+   padding-right: 1em;
+}
+.icon-lg{
+   font-size:7em;
+}
+#header{
+   padding: 10em;
+}
