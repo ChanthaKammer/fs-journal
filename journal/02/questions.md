@@ -35,6 +35,7 @@
     ```
 
     > friends.push(them); friends.push(you);
+    > Since these objects are not already in an array, you can not iterate over them with a loop
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -47,7 +48,13 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > 
+    > Parameters are what you let your function take in as arguments
+    > function add(num1, num2){
+    >    return num1 + num2;
+    >}
+    > add(1, 2)
+    >In this case, num1, and num2, are the parameters
+    >when the function is called, 1 and 2 are the arguments.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
