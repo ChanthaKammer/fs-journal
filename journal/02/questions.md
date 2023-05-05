@@ -18,6 +18,13 @@
     ```
 
     > fruit.splice(2, 1)
+    > let spliced = []
+    > fruit.forEach(fruit => {
+    > if(fruit != 'pineapple'){
+    >     spliced.push(fruit)
+    > }
+    > })
+    > console.log(spliced)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
