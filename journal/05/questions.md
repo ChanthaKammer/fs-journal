@@ -21,11 +21,11 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > The three types of data relationships are, one-to-one, one-to-many, and many-to-many.A good example of this would be having one colony to one planet, lets say a colony that hasn't discovered space travel. A one to many relationship would be a galaxy with millions of stars in it. A many to many relationship would be having multiple colonies of the same species on multiple different planets and even star systems.
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > Middleware is what is used as a connection pipeline between two or more systems that need to communicate with each other. Express is a good example of middleware, which allows you to send HTTP methods to databases or servers. Since nodejs is the server, express bridges the client to the server, which communicates to the database. The data from the database gets send back to the server, which sends it back to the client.
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
