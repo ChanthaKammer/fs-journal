@@ -37,4 +37,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > A virtual property is a property an object gets via reference across schemas. There can be a planet with the virtual property of a specific colony, or a galaxy with the virtual property of all its children. 
