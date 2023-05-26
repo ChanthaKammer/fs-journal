@@ -25,7 +25,7 @@
 
 07. What is middleware?
 
-  > Middleware is what is used as a connection pipeline between two or more systems that need to communicate with each other. Express is a good example of middleware, which allows you to send HTTP methods to databases or servers. Since nodejs is the server, express bridges the client to the server, which communicates to the database. The data from the database gets send back to the server, which sends it back to the client.
+  > Middleware is what is used as a connection pipeline between two or more systems that need to communicate with each other. Express is a good example of middleware, which allows you to send HTTP methods to databases or servers. Since nodejs is the server, express bridges the client to the server, which communicates to the database. The data from the database gets sent back to the server, which sends it back to the client.
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
