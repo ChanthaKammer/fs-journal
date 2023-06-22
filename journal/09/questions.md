@@ -9,7 +9,7 @@
 
 03. What is the `Observer` design pattern?
 
-> | ANSWER HERE |
+> The observer pattern is where multiple objects depends on the state of a single object. For example, when a game is marked as finished, a scoreboard component would update with the final score of the match, and a MVP component could update to display the final score of the best player.
 
 04. What is the `Strategy` design pattern?
 
@@ -17,7 +17,7 @@
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> The factory design pattern means that a parent class holds the main properties to declare an instance of an object, but child classes are the only classes that objects are declared under. An example of this could be an animal class that holds weight, height, and age, while a cat class includes the properties of the animal class along with whiskers, fur color, and claw count.
 
 06. What is test driven development?
 
