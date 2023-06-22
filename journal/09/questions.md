@@ -5,7 +5,7 @@
 
 02. What is the `Singleton` design pattern?
 
-> | ANSWER HERE |
+> Singleton is having only one instance of a class. An example of this would be AppState since there is only one instance of it used globally to access the variables within in.
 
 03. What is the `Observer` design pattern?
 
