@@ -5,7 +5,7 @@
 
 02. What is the `Singleton` design pattern?
 
-> Singleton is having only one instance of a class. An example of this would be AppState since there is only one instance of it used globally to access the variables within in.
+> Singleton is having only one instance of a class. An example of this would be AppState since there is only one instance of it used globally to access the variables within it.
 
 03. What is the `Observer` design pattern?
 
@@ -33,8 +33,8 @@
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> This is done in sprint planning.
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> In sprint planning and daily standup tasks are assigned to you. The sprint review does not include getting tasks assigned to you.
