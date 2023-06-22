@@ -1,7 +1,7 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> Inheritence is where there is a parent class that defines general properties of an object, and a subclass uses the parent properties along with its' own properties. 
 
 02. What is the `Singleton` design pattern?
 
@@ -13,7 +13,7 @@
 
 04. What is the `Strategy` design pattern?
 
-> | ANSWER HERE |
+> The strategy design pattern is where functions are written with intent to be altered to suit a specific purpose. An example would be a generic capitilization class that can be used within another class with different parameters.
 
 05. What is the `Factory` design pattern?
 
@@ -21,15 +21,15 @@
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> Test driven development is where specific test cases are set up to test logic of the specific task. Postman tests are a good example since tests allow us to test backend functionality in large batches of tests. TDD is especially useful when used in steps. In MVC we would log out the controller, then log from the service, and then log the results before hooking into our AppState. This approach prevents us from messing up our AppState while we are writing out code.
 
 07. In Scrum/Agile what is the DoD?
 
-> | ANSWER HERE |
+> DoD stands for definition of done. In our checkpoints we have different checks to make sure our program functions as it should. In group capstones this would be the MVP.
 
 08. Give two examples of a user story:
 
-> | ANSWER HERE |
+> A new Uber user signing up and scheduling their first ride. This would include sign up, setting up a form of payment, identity verification, and learning to use the UI. Another example would be a User scheduling their ride instead of taking it on demand, and choosing Uber Black instead of Uber Standard. Both of these user stories have points where they are interacting with the same components of the application, and both end up with them getting a ride. 
 
 09. During which ceremony is your Sprint Backlog created?
 
